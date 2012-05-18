@@ -1,0 +1,1 @@
+copy putty.exe.bak putty.exe
